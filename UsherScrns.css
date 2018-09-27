@@ -1,0 +1,71 @@
+/*Rohith*/
+
+#Linkbox1 button{
+     margin-top: 0px;
+    text-decoration: underline;
+    font-size: 1em;
+   /* color:floralwhite;*/
+     
+
+}
+#Loginbutton{
+    margin:12px;
+    width: 30%;
+}
+.FPbutton{
+    font-size: 0.8rem;
+    margin-right: 80px;
+    margin-top: 20px;  
+}
+.grommetux-form-field__error{
+    font-size: 0.8em;
+}
+#Linkbox1 button:hover{
+ 
+    color:  #01a982;
+    font-size: 1.2em;
+   
+}
+#loginbox{
+    margin-right: 110px;
+}
+#separator{
+    margin:10px;
+}
+.Usherformfirld .grommetux-form-field__label{
+    font-weight: bold;
+    font-size: 0.8em;
+   /* color:floralwhite;*/
+    
+}
+
+.loginuser{
+   
+    margin-top: 5px;
+}
+.logintextfield  {
+    /* border: none; */
+    width: 80% !important;
+    border: 1px solid rgba(0,0,0,.15) !important;
+    padding-left: 12px !important;
+     height: 32px;
+}
+.loginerror{
+    margin-left: 20px;
+    
+}
+
+/*.mainbox{
+   
+     background-image:url(./img/bbg.jpg);
+    height: 100%;
+
+}*/
+/*.label{
+    color:floralwhite;
+}*/
+
+
+
+
+
